@@ -40,3 +40,7 @@ nosetests.xml
 # Local.
 database.csv
 *.log
+
+ddns-domains.csv
+update-route53.ip
+update-route53.log
